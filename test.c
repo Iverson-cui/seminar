@@ -10,4 +10,8 @@ int main(void)
 
   print("x is %i/n",x);
   print("y is %i/n",y);
+
+
+  print("x is %i/n",x);
+  print("y is %i/n",y);
 }
